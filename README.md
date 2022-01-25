@@ -17,3 +17,7 @@ We have:
 <h2>devDependencies</h2>
 
 - "cypress": "^9.3.1",
+
+<h2>Node Version</h2>
+
+- v14.18.1
