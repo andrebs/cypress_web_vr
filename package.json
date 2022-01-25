@@ -1,0 +1,14 @@
+{
+  "name": "web_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "praVoce.spec.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Andre Barbosa Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
